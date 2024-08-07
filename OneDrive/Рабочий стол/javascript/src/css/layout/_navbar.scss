@@ -1,0 +1,57 @@
+body{
+    nav {
+        width: Fixed (1, 440px) px;
+        height: Fixed (128px) px;
+        padding: 33px 45px 33px 45px;
+        gap: 10px;
+        border: 0px 0px 0.5px 0px;
+        opacity: 0px;
+        .navbar {
+            gap: 117px;
+    
+            display: flex;
+            .img-logo    {
+                font-family: Potta One;
+                font-size: 36px;
+                font-weight: 400;
+                line-height: 52.13px;
+    
+                width: 292px;
+                height: 62.45px;
+                gap: 0px;
+                border: 4px 0px 0px 0px;
+                opacity: 0px;
+            }
+            .nav-menu {
+                width: Hug (845px) px;
+                height: Hug (37px) px;
+                gap: 75px;
+                opacity: 0px;
+    
+                display: flex;
+                .right {
+                    display: flex;
+                    width: Hug (660px) px;
+                    height: Hug (37px) px;
+                    gap: 60px;
+                    opacity: 0px;
+                    .eng {
+                        // margin-top: 7px;
+                        font-size: 25px;
+    
+                        font-family: "Kanit";
+                    }
+                }
+                .left {
+                    display: flex;
+                    width: Fixed (110px) px;
+                    height: Hug (25px) px;
+                    gap: 62px;
+                    opacity: 0px;
+                    margin-top: 7px;
+                }
+            }
+        }
+    }
+    
+}

@@ -1,6 +1,105 @@
-/*# sourceMappingURL=style.css.map */
+li a {
+  color: white;
+}
 
-@import './style.css';
+i {
+  color: white;
+}
+
 h1 {
-    color: aquamarine;
-  }
+  color: white;
+}
+
+.home.thewalkingdead.img-walking {
+  width: 618px;
+  height: 363px;
+  top: 535px;
+  left: 708px;
+  gap: 0px;
+  border-radius: 15px 0px 0px 0px;
+  opacity: 0px;
+}
+
+body {
+  padding: 5px 10px 5px 10px;
+}
+
+li {
+  list-style: none;
+  color: white;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-menu .right li a {
+  width: 90px;
+  height: 37px;
+  font-family: "Kanit";
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.38px;
+}
+
+.nav-menu .right {
+  width: Hug 72px px;
+  height: Hug 37px px;
+  gap: 10px;
+  opacity: 0px;
+}
+
+.left-h1 {
+  color: #DCD6D6;
+}
+
+body nav {
+  width: Fixed 1, 440px px;
+  height: Fixed 128px px;
+  padding: 33px 45px 33px 45px;
+  gap: 10px;
+  border: 0px 0px 0.5px 0px;
+  opacity: 0px;
+}
+body nav .navbar {
+  gap: 117px;
+  display: flex;
+}
+body nav .navbar .img-logo {
+  font-family: Potta One;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 52.13px;
+  width: 292px;
+  height: 62.45px;
+  gap: 0px;
+  border: 4px 0px 0px 0px;
+  opacity: 0px;
+}
+body nav .navbar .nav-menu {
+  width: Hug 845px px;
+  height: Hug 37px px;
+  gap: 75px;
+  opacity: 0px;
+  display: flex;
+}
+body nav .navbar .nav-menu .right {
+  display: flex;
+  width: Hug 660px px;
+  height: Hug 37px px;
+  gap: 60px;
+  opacity: 0px;
+}
+body nav .navbar .nav-menu .right .eng {
+  font-size: 25px;
+  font-family: "Kanit";
+}
+body nav .navbar .nav-menu .left {
+  display: flex;
+  width: Fixed 110px px;
+  height: Hug 25px px;
+  gap: 62px;
+  opacity: 0px;
+  margin-top: 7px;
+}/*# sourceMappingURL=style.css.map */
